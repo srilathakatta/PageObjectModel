@@ -1,0 +1,4 @@
+com\qa\huspot\Tests\HomeTest.class
+com\qa\huspot\Tests\ContactsPageTest.class
+com\qa\huspot\Tests\LoginTest.class
+com\qa\huspot\Tests\ProfileAndPreferencesPageTest.class

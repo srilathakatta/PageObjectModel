@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Hub Spot Application Regression Test Suit" duration-ms="91905" started-at="2019-04-24T06:47:25Z" finished-at="2019-04-24T06:48:57Z">
+    <groups>
+    </groups>
+    <test name="hub spot regression test" duration-ms="91905" started-at="2019-04-24T06:47:25Z" finished-at="2019-04-24T06:48:57Z">
+      <class name="com.qa.huspot.Tests.HomeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.huspot.Tests.HomeTest@376b4233]" name="setUp" is-config="true" duration-ms="8024" started-at="2019-04-24T06:48:01Z" finished-at="2019-04-24T06:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyContactsTabTest()[pri:0, instance:com.qa.huspot.Tests.HomeTest@376b4233]" name="verifyContactsTabTest" duration-ms="11438" started-at="2019-04-24T06:48:09Z" finished-at="2019-04-24T06:48:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsTabTest -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:0, instance:com.qa.huspot.Tests.HomeTest@376b4233]" name="closeTheBrowser" is-config="true" duration-ms="757" started-at="2019-04-24T06:48:20Z" finished-at="2019-04-24T06:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.huspot.Tests.HomeTest@376b4233]" name="setUp" is-config="true" duration-ms="7808" started-at="2019-04-24T06:48:21Z" finished-at="2019-04-24T06:48:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifygetHomaPageTitleTest()[pri:0, instance:com.qa.huspot.Tests.HomeTest@376b4233]" name="verifygetHomaPageTitleTest" duration-ms="3843" started-at="2019-04-24T06:48:29Z" finished-at="2019-04-24T06:48:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifygetHomaPageTitleTest -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:0, instance:com.qa.huspot.Tests.HomeTest@376b4233]" name="closeTheBrowser" is-config="true" duration-ms="696" started-at="2019-04-24T06:48:33Z" finished-at="2019-04-24T06:48:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.huspot.Tests.HomeTest@376b4233]" name="setUp" is-config="true" duration-ms="7750" started-at="2019-04-24T06:48:33Z" finished-at="2019-04-24T06:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifygetUserLinkTest()[pri:0, instance:com.qa.huspot.Tests.HomeTest@376b4233]" name="verifygetUserLinkTest" duration-ms="15070" started-at="2019-04-24T06:48:41Z" finished-at="2019-04-24T06:48:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifygetUserLinkTest -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:0, instance:com.qa.huspot.Tests.HomeTest@376b4233]" name="closeTheBrowser" is-config="true" duration-ms="718" started-at="2019-04-24T06:48:56Z" finished-at="2019-04-24T06:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- com.qa.huspot.Tests.HomeTest -->
+      <class name="com.qa.huspot.Tests.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="setUp" is-config="true" duration-ms="10422" started-at="2019-04-24T06:47:25Z" finished-at="2019-04-24T06:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCorrectCredentialsTest()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="verifyCorrectCredentialsTest" duration-ms="922" started-at="2019-04-24T06:47:35Z" finished-at="2019-04-24T06:47:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCorrectCredentialsTest -->
+        <test-method status="PASS" signature="cliseTheBrowser()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="cliseTheBrowser" is-config="true" duration-ms="743" started-at="2019-04-24T06:47:36Z" finished-at="2019-04-24T06:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cliseTheBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="setUp" is-config="true" duration-ms="7103" started-at="2019-04-24T06:47:37Z" finished-at="2019-04-24T06:47:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPrivacyPolicyTest()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="verifyPrivacyPolicyTest" duration-ms="87" started-at="2019-04-24T06:47:44Z" finished-at="2019-04-24T06:47:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPrivacyPolicyTest -->
+        <test-method status="PASS" signature="cliseTheBrowser()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="cliseTheBrowser" is-config="true" duration-ms="719" started-at="2019-04-24T06:47:44Z" finished-at="2019-04-24T06:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cliseTheBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="setUp" is-config="true" duration-ms="7103" started-at="2019-04-24T06:47:45Z" finished-at="2019-04-24T06:47:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySignInWithGoogleTest()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="verifySignInWithGoogleTest" duration-ms="87" started-at="2019-04-24T06:47:52Z" finished-at="2019-04-24T06:47:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInWithGoogleTest -->
+        <test-method status="PASS" signature="cliseTheBrowser()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="cliseTheBrowser" is-config="true" duration-ms="781" started-at="2019-04-24T06:47:52Z" finished-at="2019-04-24T06:47:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cliseTheBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="setUp" is-config="true" duration-ms="7080" started-at="2019-04-24T06:47:53Z" finished-at="2019-04-24T06:48:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifygetLoginPageTitleTest()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="verifygetLoginPageTitleTest" duration-ms="13" started-at="2019-04-24T06:48:00Z" finished-at="2019-04-24T06:48:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifygetLoginPageTitleTest -->
+        <test-method status="PASS" signature="cliseTheBrowser()[pri:0, instance:com.qa.huspot.Tests.LoginTest@4fcd19b3]" name="cliseTheBrowser" is-config="true" duration-ms="686" started-at="2019-04-24T06:48:00Z" finished-at="2019-04-24T06:48:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cliseTheBrowser -->
+      </class> <!-- com.qa.huspot.Tests.LoginTest -->
+    </test> <!-- hub spot regression test -->
+  </suite> <!-- Hub Spot Application Regression Test Suit -->
+</testng-results>

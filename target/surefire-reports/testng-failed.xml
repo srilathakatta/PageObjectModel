@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.qa.huspot.Tests.ContactsPageTest">
+        <methods>
+          <include name="closeTheBrwoser"/>
+          <include name="setUp"/>
+          <include name="createNewContactsTest"/>
+        </methods>
+      </class> <!-- com.qa.huspot.Tests.ContactsPageTest -->
+      <class name="com.qa.huspot.Tests.LoginTest">
+        <methods>
+          <include name="verifySignInWithGoogleTest"/>
+          <include name="verifyCorrectCredentialsTest"/>
+          <include name="verifyPrivacyPolicyTest"/>
+          <include name="cliseTheBrowser"/>
+          <include name="verifygetLoginPageTitleTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.huspot.Tests.LoginTest -->
+      <class name="com.qa.huspot.Tests.HomeTest">
+        <methods>
+          <include name="verifygetUserLinkTest"/>
+          <include name="closeTheBrowser"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.huspot.Tests.HomeTest -->
+      <class name="com.qa.huspot.Tests.ProfileAndPreferencesPageTest">
+        <methods>
+          <include name="verifygetProfileAndPreferencesPageTitleTest"/>
+          <include name="closeTheBrowser"/>
+          <include name="verifygetProfileAndPreferencesPageTextTest"/>
+          <include name="verifygetNaveenNameElementTextTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.huspot.Tests.ProfileAndPreferencesPageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
